@@ -11,7 +11,7 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
-        "dompdf/dompdf": "^2.0.1"
+        "dompdf/dompdf": "^2.0.8"
     },
     "autoload": {
         "psr-4": {
